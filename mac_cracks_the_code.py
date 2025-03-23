@@ -1,0 +1,17 @@
+word_data = {
+    "Panache": ("派頭; 瀟灑; 神氣十足", "She always dresses with panache."),
+    "Smooshed": ("壓扁; 擠壓; 混合", "The sandwich got all smooshed in my bag."),
+    "Bicep": ("肱二頭肌", "He flexed his bicep to show off his strength."),
+    "Safe": ("保險箱; 安全的", "She kept her valuables in a safe."),
+    "Spiky": ("尖的; 多刺的; 易怒的", "His spiky hair made him stand out in the crowd."),
+    "Gel": ("凝膠; 凝固; 融洽", "He used hair gel to style his hair."),
+    "Corn nut": ("炸玉米粒（脆脆的零食）", "She grabbed a handful of corn nuts for the road trip."),
+    "Licorice": ("甘草糖（常見於黑色或紅色的軟糖）", "Not everyone likes the taste of black licorice."),
+    "Jack up": ("抬高（價格、數量等）；提高；使增加", "The store jacked up the prices before the holiday."),
+    "Dr Pepper": ("胡椒博士汽水（美國品牌的碳酸飲料）", "I ordered a burger and a cold Dr Pepper."),
+    "Clutch": ("手拿包，小型時尚手提包（女生用）", "She carried a sleek black clutch to the party."),
+    "Usher": ("引座員；帶位員；（在婚禮中）招待員", "The usher showed us to our seats before the movie started."),
+    "Claw machine": ("夾娃娃機", "He spent five dollars trying to win a toy from the claw machine."),
+    "Dug into": ("大快朵頤地吃；投入；鑽研", "She dug into the cake like she hadn’t eaten all day."),
+    "Bug me": ("惹我煩；讓我困擾", "That sound is really starting to bug me."),
+}
